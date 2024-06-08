@@ -24,21 +24,23 @@ pumpkinfucker
 pumpkinfucker
 pumpkinfucker
 ```math
-\mmlToken{ms}[fontfamily="
-koopafont;
-color:transparent;
-pointer-events:none;
-z-index: -9999;
-inset:0;
-object-fit: cover;
-background-size: 12vmax;
-position: fixed!important;
-display: block!important;
-top: 0;
-bottom: 0;
-left: 0;
-right: 0;
-opacity: 0.2;
-background-image: url('https://github.com/pumpkinfucker/pumpkinfucker/blob/main/przglwx4h9pz.webp');
-content: 'youve been trolled';
-"]{}
+{
+  "metadata": {
+    "kernelspec": {
+      "name": "",
+      "display_name": ""
+    },
+    "language_info": {
+      "name": ""
+    }
+  },
+  "nbformat_minor": 4,
+  "nbformat": 4,
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "source": "$$\n\\ce{$\\unicode[comic-sans;color:transparent;z-index:99999;position:fixed;top:0;left:0;height:100%;width:100%;pointer-events:none;opacity:1;background:green;background-size:100% 100%;]{x0000}$}\n$$",
+      "metadata": {}
+    }
+  ]
+}
