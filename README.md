@@ -39,6 +39,6 @@ bottom: 0;
 left: 0;
 right: 0;
 opacity: 0.2;
-background-image: url('https://raw.githubusercontent.com/BomberFish/OpenPicasso/master/Picasso/Trollface.png');
+background-image: url('https://github.com/pumpkinfucker/pumpkinfucker/blob/main/przglwx4h9pz.webp');
 content: 'youve been trolled';
 "]{}
